@@ -10,6 +10,9 @@ Read this file and the following before changing code:
 6. SOURCES.md
 7. CHANGELOG.md
 
+If you need to push to this repository, see [docs/git-access.md](docs/git-access.md)
+for the credential pattern and safety rules.
+
 ## Mission
 
 Build Listen as a minimal Lotus-based Android music app with two additional sources:
